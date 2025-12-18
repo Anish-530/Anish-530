@@ -1,21 +1,16 @@
-<img src="https://i.imgur.com/fetnHSg.png" alt="MainScreen" />
-<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I am Awish</h3>
+<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I am Anish</h3>
 <hr>
-<p>Well, I am a Web Developer and a Discord bot developer too! I am what you can say "a code freak". I code very much! I keep making new things everyday. Yes, it's a shame that I only get good ideas either while sleeping or eating and then i can't note them, gone. I have created a tons of bots for servers on Discord, also have created few websites! which look good or bad. It's all up to you ¯\_(ツ)_/¯</p>
+<p>Well, I am a Web Developer and was a Discord bot developer! I am what you can say "a code freak".</p>
 
-<li>🌍 I'm from Singapore.</li>
+<li>🌍 I'm from India</li>
 <li>💻 I have a shitty laptop, that I only code on.</li>
-<li>🎮 I used to play tons of games, but now I don't.</li>
-<li>🙃 Am always in Pain.</li>
-<li>🤗 I don't like to socialize a lot, but I like to make new friends :></li>
-<li>🐱‍💻 Yes I'm an Introvert *cough*</li>
 <li>⌨ My <a href="https://awish.netlify.app/" target="_blank">main website</a> and my <a href="https://aw-ish.netlify.app/" target="_blank">old website</a>.</li>
 
 <br>
 
 <h3>👩‍💻 Stuff I use for coding and languages I know!</h3>
 <hr>
-<p>I like to learn new languages! Especially if they have frameworks. Am familiar with Java a lot since I learned it for at least 2 years.</p>
+<p>I like to learn new languages! Especially if they have frameworks. I am familiar with Java a lot since I learned it for at least 2 years.</p>
 <h4>Languages & Framework</h4>
 <p style="display:contents;">
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
