@@ -48,8 +48,8 @@
 <h3>📊 Here are some of my GitHub stats.</h3>
 <hr>
 <p style="display: contents;">
-   <img src="https://github-readme-stats.vercel.app/api?username=Awish-Senpai&show_icons=true&theme=tokyonight" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awish-Senpai&layout=compact&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Anish-530&show_icons=true&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-530&layout=compact&theme=tokyonight" />
 </p>
 
 <h3>🎇 Miscellaneous</h3>
