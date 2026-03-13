@@ -20,6 +20,9 @@
    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+   <img alt="python" src="https://img.shields.io/badge/python-%230769AD.svg?style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="C" src="https://img.shields.io/badge/C-%230769AD.svg?style=for-the-badge&logo=C&logoColor=white"/>
+   <img alt="C++" src="https://img.shields.io/badge/C++-%230769AD.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 </p>
 
 <h4>Design</h4>
