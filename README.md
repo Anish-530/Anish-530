@@ -28,6 +28,7 @@
 <h4>Design</h4>
 <p>
    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+   <img alt="Canva" src="https://img.shields.io/badge/canva-%23F24E1E.svg?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 <h4>IDEs/Editors</h4>
@@ -46,6 +47,7 @@
 <p style="display:contents">
    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+   <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <h3>📊 Here are some of my GitHub stats.</h3>
@@ -58,11 +60,10 @@
 <h3>🎇 Miscellaneous</h3>
 <hr>
 <p style="display:contents;">
-   <img src="https://komarev.com/ghpvc/?username=Awish-Senpai&style=flat" />
-   <img src="https://img.shields.io/github/stars/Awish-Senpai/Awish-Senpai.svg?style=social&label=Star&maxAge=2592000)" />
-   <img src="https://img.shields.io/github/forks/Awish-Senpai/Awish-Senpai.svg?style=social&label=Fork&maxAge=2592000" />
-   <img src="https://img.shields.io/github/followers/Awish-Senpai.svg?style=social&label=Follow&maxAge=2592000" />
-   <img src="https://badge-size.herokuapp.com/Awish-Senpai/Awish-Senpai/main/README.md" />
+   <img src="https://komarev.com/ghpvc/?username=Anish-530&style=flat" />
+   <img src="https://img.shields.io/github/stars/Anish-530/Anish-530.svg?style=social&label=Star&maxAge=2592000)" />
+   <img src="https://img.shields.io/github/forks/Anish-530/Anish-530.svg?style=social&label=Fork&maxAge=2592000" />
+   <img src="https://img.shields.io/github/followers/Anish-530.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 
 <h3>🙃 That's it all about me. If you want to know more about me, you can just visit my <a href="https://awish.netlify.app/" target="_blank">website</a>.</h3>
