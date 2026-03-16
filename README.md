@@ -66,7 +66,7 @@
    <img src="https://img.shields.io/github/followers/Anish-530.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 
-<h3>🙃 That's it all about me. If you want to know more about me, you can just visit my <a href="https://awish.netlify.app/" target="_blank">website</a>.</h3>
+<h3>😁 That sure is all about me. Buuuut if you want to know even more about me, you can just visit my <a href="https://awish.netlify.app/" target="_blank">website</a>.</h3>
 <hr>
 <img src="https://i.imgur.com/iUAmLoh.png" />
 <hr>
