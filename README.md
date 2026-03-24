@@ -10,7 +10,7 @@
 
 <h3>👩‍💻 Stuff I use for coding and languages I know!</h3>
 <hr>
-<p>I like to learn new languages! Especially if they have frameworks. I am familiar with Java a lot since I learned it for at least 2 years.</p>
+<p>I like to learn new languages! Especially if they have frameworks. I know C, C++, Java, Python, and some other languages too.</p>
 <h4>Languages & Framework</h4>
 <p style="display:contents;">
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
