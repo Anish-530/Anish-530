@@ -57,6 +57,22 @@
    <img src="https://streak-stats.demolab.com/?user=Anish-530&theme=tokyonight" />
 </p>
 
+<h3>🌍 Socials</h3>
+<hr>
+<p style="display:contents;">
+  <a href="https://www.linkedin.com/in/anish-nayak-231a90270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/youravg.npc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://awish.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+  </a>
+</p>
+
 <h3>🎇 Miscellaneous</h3>
 <hr>
 <p style="display:contents;">
