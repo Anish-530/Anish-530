@@ -23,6 +23,9 @@
    <img alt="python" src="https://img.shields.io/badge/python-%230769AD.svg?style=for-the-badge&logo=python&logoColor=white"/>
    <img alt="C" src="https://img.shields.io/badge/C-%230769AD.svg?style=for-the-badge&logo=C&logoColor=white"/>
    <img alt="C++" src="https://img.shields.io/badge/C++-%230769AD.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%230769AD.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-%230769AD.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+   <img alt="Neural Networks" src="https://img.shields.io/badge/Neural Networks-%230769AD.svg?style=for-the-badge&logo=C++&logoColor=white"/> 
 </p>
 
 <h4>Design</h4>
