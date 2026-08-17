@@ -55,9 +55,38 @@
 
 <h3>📊 Here are some of my GitHub stats.</h3>
 <hr>
-<p style="display:contents;">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anish-530&layout=compact&theme=tokyonight" />
-   <img src="https://streak-stats.demolab.com/?user=Anish-530&theme=tokyonight" />
+
+<p>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Anish-530&theme=tokyonight&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Anish-530&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p>
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=Anish-530&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<h3>🧩 LeetCode</h3>
+<hr>
+
+<p>
+  <a href="https://leetcode.com/u/AnishNayak/">
+    <img src="https://github-readme-leetcode-card.romitsagu.com/AnishNayak?theme=dark&show=graph,recent&hide_border=true" />
+  </a>
 </p>
 
 <h3>🌍 Socials</h3>
