@@ -1,6 +1,6 @@
 <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I am Anish</h3>
 <hr>
-<p>Well, I am a Web Developer and was a Discord bot developer! I am what you can say "a code freak".</p>
+<p>Well, I am a Web Developer and an ex-Discord bot developer! I am what you can say "a code freak".</p>
 
 <li>🌍 I'm from India</li>
 <li>💻 I have a shitty laptop, that I only code on.</li>
