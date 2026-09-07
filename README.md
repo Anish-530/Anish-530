@@ -4,7 +4,7 @@
 
 <li>🌍 I'm from India</li>
 <li>💻 I have a shitty laptop, that I only code on.</li>
-<li>⌨ My <a href="https://awish.netlify.app/" target="_blank">main website</a>.
+<li>⌨ My <a href="https://awish.netlify.app/" target="_blank">website</a>. (revamp coming soon)
 
 <br>
 
